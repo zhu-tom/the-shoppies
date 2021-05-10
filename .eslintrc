@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "plugin:@shopify/polaris",
+    "plugin:@shopify/react",
+    "plugin:@shopify/esnext",
+    "plugin:@shopify/prettier"
+  ]
+}
